@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BinarySearch.cs" />
     <Compile Include="Fabonacci.cs" />
     <Compile Include="LongestSubstring.cs" />
     <Compile Include="Program.cs" />

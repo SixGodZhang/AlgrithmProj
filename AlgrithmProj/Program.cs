@@ -19,8 +19,15 @@ namespace AlgrithmProj
             //=============================================================================
 
             //========================测试两个字符串的最大子串=============================
-            LongestSubstring.TestLongestSubstring("raveADKaaaaaaaaaSPKOnWER", "havdaaaauiAUSDocWER");
+            //LongestSubstring.TestLongestSubstring("raveADKaaaaaaaaaSPKOnWER", "havdaaaauiAUSDocWER");
             //=============================================================================
+
+            //=========================测试二分法==========================================
+            int[] arr = { 1,2,3,4,5,6,7,8,9,10};
+            int index = BinarySearch.OnBinarySearch(arr, 0, arr.Length - 1, 7);
+            Console.WriteLine("index: " + index);
+            //=============================================================================
+
 
         }
     }

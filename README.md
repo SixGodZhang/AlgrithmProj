@@ -12,3 +12,15 @@
 ## class BinarySearch
 二分法
 总结:使用二分法的前提是一组有序的数列
+
+## class SortMethods.BubbleSort(int[] arr)
+冒泡排序
+总结:冒泡排序是每一个数和剩下所有的数进行比较
+
+## class SortMethods.SelectSort(int[] arr)
+选择排序
+总结:每次选取最大的数放在行尾
+
+## class SortMethods.QuickSort(int[] arr,int begin, int end)
+快速排序
+总结:D&C 分而治之，由上至下

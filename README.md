@@ -35,10 +35,10 @@
 此例中路径的计算方法有误,需重构
 
 ## class GraphSearch.DijkstraSearch(Dictionary<T,Dictionary<T,int>> dict,Predicate<T> predicate = null)
-狄克斯特拉算法 搜索加权图
-例子
-![图](https://github.com/SixGodZhang/AlgrithmProj/tree/master/Assets/graph.png)
-执行结果
-![运行结果](https://github.com/SixGodZhang/AlgrithmProj/tree/master/Assets/graphResult.png)
+狄克斯特拉算法 搜索加权图  
+例子  
+![图](https://github.com/SixGodZhang/AlgrithmProj/tree/master/Assets/graph.png)  
+执行结果  
+![运行结果](https://github.com/SixGodZhang/AlgrithmProj/tree/master/Assets/graphResult.png)  
 
 总结:需要优化，代码过于复杂，容易遗忘中间过程

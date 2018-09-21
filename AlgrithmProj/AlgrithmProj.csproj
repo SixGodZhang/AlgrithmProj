@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="BinarySearch.cs" />
     <Compile Include="Fabonacci.cs" />
+    <Compile Include="GraphSearch.cs" />
     <Compile Include="LongestSubstring.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
